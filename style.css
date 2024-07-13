@@ -129,7 +129,7 @@ header a:active {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  border: 2px dotted green;
+  /* border: 2px dotted green; */
 }
 
 .col {
@@ -137,7 +137,7 @@ header a:active {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: center;
-  border: 2px dotted blue;
+  /* border: 2px dotted blue; */
 }
 
 footer {
